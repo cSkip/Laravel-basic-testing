@@ -1,0 +1,7 @@
+include:
+  - https://php-utilities.biw-pages.com/ci-includes/php/build-laravel.yml
+  - https://php-utilities.biw-pages.com/ci-includes/php/phpunit.yml
+  - https://php-utilities.biw-pages.com/ci-includes/gitlab/code-quality.yml
+  - https://php-utilities.biw-pages.com/ci-includes/security/sast.yml
+  - https://php-utilities.biw-pages.com/ci-includes/security/dependencies.yml
+  - https://php-utilities.biw-pages.com/ci-includes/security/license.yml
